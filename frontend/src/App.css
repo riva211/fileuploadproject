@@ -1,0 +1,15 @@
+.app-container {
+  min-height: 100vh;
+}
+
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.dashboard-container,
+.file-management-container,
+.profile-container {
+  max-width: 100%;
+}
